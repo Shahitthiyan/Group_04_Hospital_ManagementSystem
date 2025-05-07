@@ -5,7 +5,7 @@ int login() {
     char username[8], password[10];
 
     printf("Enter username: ");
-    scanf("%8s", username); // in hear we type the f.s as 8s it's indicate to Prevents buffer overflow by limiting input length (scanf("%8s", username))
+    scanf("%8s", username); // in hear we type the u.n as 8s it's indicate to Prevents buffer overflow by limiting input length (scanf("%8s", username))
 
 
     printf("Enter password: ");
