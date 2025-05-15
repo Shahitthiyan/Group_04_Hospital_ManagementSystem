@@ -62,7 +62,7 @@ void listDoctors() {
 }
 
 int main(){
-    addpatient();
+    addPatient();
     listPatients();
     addDoctor();
     listDoctors();
