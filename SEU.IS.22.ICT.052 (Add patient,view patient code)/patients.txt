@@ -1,4 +1,0 @@
-		
-
- ID:8 	 Name:umasha 	 Age:23 	 Disease:heart 
-ID: 2	Name: BASITH	Age: 50	Disease: EYE PROBLEM
