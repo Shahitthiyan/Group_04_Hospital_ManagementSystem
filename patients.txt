@@ -1,0 +1,3 @@
+		
+
+ ID:8 	 Name:umasha 	 Age:23 	 Disease:heart 
