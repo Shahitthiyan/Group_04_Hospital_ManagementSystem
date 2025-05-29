@@ -293,7 +293,7 @@ printf(BLUE"\t\t\t\t##############################################\n");
             case 4: printdoctorsFile(); break;
             case 5: Addappointment(); break;
             case 6: printappointmentFile(); break;
-            case 7: printf(RED"Exiting...\n"RESET); exit(0);
+            case 7:printf(RED"\n Exiting gracefully... Goodbye! \n"RESET); exit(0);
             default: printf(RED"Invalid choice! Please try again.\n"RESET);
         }
     }
