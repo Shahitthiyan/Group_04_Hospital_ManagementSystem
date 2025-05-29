@@ -46,13 +46,7 @@ struct User {
 
 // Sample users
 struct User users[MAX_USERS] = {
-    {"Shaii", "0902"},
-    {"Abdul", "Rahman"},
-    {"Tharaka", "1234"},
-    {"Izni","0715"},
-    {"Umasha","1234"}
 
-    };
 
 
 
